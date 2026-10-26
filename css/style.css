@@ -1,0 +1,8 @@
+body{min-height:100vh}
+.hero{background:linear-gradient(135deg,#e11d48,#06b6d4);color:#fff;border-radius:1rem;padding:2rem;margin-bottom:1.5rem}
+.chip{margin:2px;border-radius:999px}
+.chip.on{background:#4f46e5;color:#fff;border-color:#4f46e5}
+.card{border-radius:1rem}
+.progress{height:1.4rem}
+.badge-skill{font-size:.9rem;margin:2px}
+@media print{nav,.btn{display:none!important}}
