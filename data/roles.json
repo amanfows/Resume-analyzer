@@ -1,0 +1,69 @@
+{
+ "Web Developer": {
+  "HTML": ["HTML5 semantic tags", "Forms and tables"],
+  "CSS": ["Flexbox and Grid", "Responsive design"],
+  "JavaScript": ["ES6 basics", "DOM manipulation", "Fetch API"],
+  "Git": ["Commits, branches, GitHub"],
+  "React": ["Components, props, state, hooks"]
+ },
+ "Python Developer": {
+  "Python": ["OOP in Python", "File handling"],
+  "Flask": ["Routing and templates"],
+  "SQL": ["Joins and queries"],
+  "Git": ["Commits, branches, GitHub"],
+  "APIs": ["REST basics", "requests library"],
+  "Testing": ["pytest basics", "Writing unit tests"]
+ },
+ "Data Analyst": {
+  "Python": ["Basics and functions"],
+  "SQL": ["Joins and aggregations"],
+  "Excel": ["Pivot tables", "VLOOKUP"],
+  "Pandas": ["DataFrames", "Data cleaning"],
+  "Data Visualization": ["Matplotlib", "Power BI or Tableau"],
+  "Statistics": ["Mean, median, probability basics"]
+ },
+ "Java Developer": {
+  "Java": ["Syntax and collections", "Exception handling"],
+  "OOP": ["Classes, inheritance, polymorphism"],
+  "Data Structures": ["Arrays, lists, trees", "Sorting and searching"],
+  "SQL": ["Joins and queries"],
+  "Spring Boot": ["REST controllers", "Dependency injection"],
+  "APIs": ["REST basics", "JSON handling"],
+  "Git": ["Commits, branches, GitHub"]
+ },
+ "Data Scientist": {
+  "Python": ["Basics and functions", "Libraries overview"],
+  "Statistics": ["Probability", "Hypothesis testing"],
+  "NumPy": ["Arrays and vector operations"],
+  "Pandas": ["DataFrames", "Data cleaning"],
+  "Machine Learning": ["Regression and classification", "Model evaluation"],
+  "Data Visualization": ["Matplotlib", "Seaborn"],
+  "SQL": ["Joins and aggregations"]
+ },
+ "UI/UX Designer": {
+  "Figma": ["Frames and components", "Auto layout"],
+  "Wireframing": ["Low-fidelity layouts", "User flows"],
+  "Prototyping": ["Clickable prototypes", "Usability testing"],
+  "User Research": ["Interviews and surveys", "Personas"],
+  "Typography": ["Font pairing", "Hierarchy and spacing"],
+  "HTML": ["HTML5 semantic tags"],
+  "CSS": ["Flexbox and Grid", "Responsive design"]
+ },
+ "Software Tester": {
+  "Manual Testing": ["Test types and levels", "Exploratory testing"],
+  "Test Cases": ["Writing test cases", "Test plans"],
+  "Selenium": ["WebDriver basics", "Locators"],
+  "Bug Tracking": ["Writing bug reports", "Jira basics"],
+  "SQL": ["Basic queries for data checks"],
+  "Python": ["Basics for test scripts"],
+  "Git": ["Commits, branches, GitHub"]
+ },
+ "Cybersecurity Analyst": {
+  "Networking": ["TCP/IP and DNS", "Firewalls"],
+  "Linux": ["Command line", "File permissions"],
+  "Python": ["Scripting for security tasks"],
+  "Cryptography": ["Hashing", "Symmetric and public-key encryption"],
+  "Ethical Hacking": ["Reconnaissance", "Vulnerability scanning"],
+  "Web Security": ["OWASP Top 10", "SQL injection and XSS"]
+ }
+}
